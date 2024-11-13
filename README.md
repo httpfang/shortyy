@@ -11,7 +11,7 @@ Welcome to **Shortyy**! 🚀 A simple and efficient URL shortener to make your l
 - 🔒 Securely stores and redirects links.
 
 ## 📸 Preview
-![Shortyy Screenshot] https://shawtyshort.netlify.app/banner1.jpg *(Replace this with an actual screenshot of the app)*
+![Shortyy Screenshot] https://shawtyshort.netlify.app/banner1.jpg 
 
 ---
 
