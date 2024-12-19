@@ -25,12 +25,13 @@
     "react-dom": "^18.2.0",
     "react-qrcode-logo": "^3.0.0",
     "react-router-dom": "^6.23.1",
+    "react-spinner": "^0.2.7",
     "react-spinners": "^0.13.8",
     "recharts": "^2.12.7",
     "tailwind-merge": "^2.3.0",
     "tailwindcss-animate": "^1.0.7",
     "ua-parser-js": "^2.0.0-beta.3",
-    "yup": "^1.4.0"
+    "yup": "^1.6.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.66",
